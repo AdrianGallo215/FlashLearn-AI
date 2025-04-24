@@ -1,3 +1,5 @@
+from .file_processor import File_Processor
+
 class Txt_Processor(File_Processor):
     def __init__(self):
         super().__init__()

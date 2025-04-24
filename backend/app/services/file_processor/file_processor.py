@@ -8,7 +8,7 @@ logger = setup_logger(__name__)
 class File_Processor(ABC):
     def __init__(self):
         self.allowed_extensions = {'txt', 'pdf', 'doc', 'docx'}
-        self.temp_dir = Path(__file__).parent.parent / 'temp'
+        self.temp_dir = Path(__file__).parent.parent.parent / 'temp'
 
     def is_file_valid(self, file):
         if not file:

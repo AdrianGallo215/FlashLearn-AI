@@ -1,0 +1,56 @@
+2025-04-24 09:19:46,213 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\services\temp\test_file.txt
+2025-04-24 09:19:46,218 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\services\temp\test_file.pdf
+2025-04-24 09:19:46,219 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\services\temp\test_file.docx
+2025-04-24 09:19:46,219 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\services\temp\test_file.doc
+2025-04-24 09:20:45,986 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:20:45,986 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:20:45,995 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:20:45,995 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:21:28,343 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:21:28,347 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:21:28,349 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:21:28,356 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:23:53,551 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:23:53,551 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:23:53,551 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:23:53,551 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:23:53,565 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-24 09:23:53,585 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-24 09:26:07,700 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:26:07,703 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:26:07,703 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:26:07,710 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:26:07,717 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-24 09:26:07,736 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-24 09:26:07,771 - app.services.file_processor.doc_processor - INFO - Extracting text from <docx.document.Document object at 0x00000171B753BDA0>
+2025-04-24 09:26:07,771 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-24 09:26:07,785 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully
+2025-04-24 09:27:07,868 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:27:07,870 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:27:07,872 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:27:07,875 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:27:07,882 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-24 09:27:07,903 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-24 09:27:07,927 - app.services.file_processor.doc_processor - INFO - Extracting text from [<docx.text.paragraph.Paragraph object at 0x000002A748981F40>, <docx.text.paragraph.Paragraph object at 0x000002A748981EE0>]
+2025-04-24 09:27:07,931 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-24 09:27:07,939 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully
+2025-04-24 09:27:55,254 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:27:55,258 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:27:55,260 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:27:55,262 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:27:55,267 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-24 09:27:55,285 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-24 09:27:55,312 - app.services.file_processor.doc_processor - DEBUG - Paragraph text: Archivo de Prueba DOCX
+2025-04-24 09:27:55,313 - app.services.file_processor.doc_processor - DEBUG - Paragraph text: Este documento contiene un resumen sobre la Guerra Fría.
+2025-04-24 09:27:55,317 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-24 09:27:55,325 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully
+2025-04-24 09:31:08,095 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt
+2025-04-24 09:31:08,102 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf
+2025-04-24 09:31:08,104 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx
+2025-04-24 09:31:08,104 - app.services.file_processor.file_processor - INFO - Saving file to C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc
+2025-04-24 09:31:08,111 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-24 09:31:08,136 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-24 09:31:08,179 - app.services.file_processor.doc_processor - DEBUG - Paragraph text: Archivo de Prueba DOCX
+2025-04-24 09:31:08,179 - app.services.file_processor.doc_processor - DEBUG - Paragraph text: Este documento contiene un resumen sobre la Guerra Fría.
+2025-04-24 09:31:08,185 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-24 09:31:08,213 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully

@@ -1,8 +1,9 @@
 import logging
 
 def setup_logger(name=__name__):
-    logger = logging.StreamHandler()
+    logger = logging.getLogger(name)
     logger.setLevel(logging.DEBUG)
+    
     if not logger.hasHandlers():
         console_handler = logging.StreamHandler()
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')

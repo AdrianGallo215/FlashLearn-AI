@@ -1,4 +1,8 @@
 from docx import Document
+from .file_processor import File_Processor
+from ...utils.logger_config import setup_logger
+
+logger = setup_logger(__name__)
 
 class Doc_Processor(File_Processor):
     def __init__(self):
@@ -11,7 +15,6 @@ class Doc_Processor(File_Processor):
         try:
             doc = Document(file_path)
             text = []
-            for paragraph in doc.paragraphs:
                 text.append(paragraph.text)
             return True, "\n".join(text)
         except Exception as e:

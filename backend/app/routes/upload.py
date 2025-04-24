@@ -1,9 +1,9 @@
 from ..main import app
-from ..services.file_processor import File_Processor
-from ..services.file_factory import get_processor
+from ..services.file_processor.pdf_processor import Pdf_Processor
+from ..services.file_processor.file_factory import get_processor
 from flask import request, jsonify
 
-file_processor = File_Processor()
+file_processor = Pdf_Processor()
 
 @app.route('/upload', methods=['POST'])
 def upload_files():
@@ -39,10 +39,11 @@ def upload_files():
 
             if success:
                 successful_files.append({'filename': file_info['filename'], 'text': text})
-                file_processor.delete_file(file_path)
+                
             else:
                 failed_files.append({'filename': file_info['filename'], 'error': text})
-
+            
+            file_processor.delete_file(file_path)
     overall_status = "success"
     status_code = 200
 

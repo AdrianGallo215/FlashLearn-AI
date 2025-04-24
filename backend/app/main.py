@@ -6,6 +6,8 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 cors.init_app(app)
 
+from .routes import upload 
+
 @app.route('/')
 def hello_world():
     return "<p>Hello world</p>"
