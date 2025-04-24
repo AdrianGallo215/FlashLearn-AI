@@ -1,7 +1,11 @@
 from pathlib import Path
 from werkzeug.utils import secure_filename
+from abc import ABC, abstractmethod
+from ...utils.logger_config import setup_logger
 
-class File_Processor:
+logger = setup_logger(__name__)
+
+class File_Processor(ABC):
     def __init__(self):
         self.allowed_extensions = {'txt', 'pdf', 'doc', 'docx'}
         self.temp_dir = Path(__file__).parent.parent / 'temp'
@@ -37,3 +41,17 @@ class File_Processor:
             return True, str(file_path)
         except Exception as e:
             return False, f"An error occurred while saving the file: {str(e)}"
+
+    def delete_file(self, file_path):
+        try:
+            if Path(file_path).exists():
+                Path(file_path).unlink()
+                logger.info(f"File {file_path} deleted successfully")
+            else:
+                logger.warning(f"File {file_path} not found")
+        except Exception as e:
+            logger.error(f"An error occurred while deleting the file: {str(e)}")
+
+    @abstractmethod    
+    def extract_text(self, file_path):
+        pass
