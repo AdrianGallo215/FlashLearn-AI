@@ -1,0 +1,8 @@
+2025-04-30 12:30:54,478 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-30 12:30:54,625 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-30 12:30:54,672 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-30 12:30:54,722 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully
+2025-04-30 12:32:28,813 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.txt deleted successfully
+2025-04-30 12:32:28,993 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.pdf deleted successfully
+2025-04-30 12:32:29,049 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.docx deleted successfully
+2025-04-30 12:32:29,110 - app.services.file_processor.file_processor - INFO - File C:\Users\Marcelo\Desktop\FlashLearn-AI\backend\app\temp\test_file.doc deleted successfully

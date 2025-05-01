@@ -15,7 +15,11 @@ class Doc_Processor(File_Processor):
         try:
             doc = Document(file_path)
             text = []
-                text.append(paragraph.text)
+            for paragraph in doc.paragraphs:
+                # Check if the paragraph is not empty
+                if paragraph.text.strip():
+                    # Append the text of the paragraph to the list
+                    text.append(paragraph.text)
             return True, "\n".join(text)
         except Exception as e:
             return False, f"An error occurred while extracting text: {str(e)}"
